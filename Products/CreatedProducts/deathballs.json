@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Death Balls",
+    "ID": "deathballs",
+    "DrugType": 0,
+    "Properties": [
+        "toxic",
+        "slippery",
+        "glowie"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 91,
+            "g": 116,
+            "b": 63,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 124,
+            "g": 160,
+            "b": 123,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 107,
+            "g": 138,
+            "b": 93,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 72,
+            "g": 92,
+            "b": 50,
+            "a": 255
+        }
+    }
+}

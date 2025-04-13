@@ -1,0 +1,84 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 5,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 1144055953,
+            "Text": "Hey, I need 2x Green Crack. I'll pay <color=#46CB4F>$120</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 388859986,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1275222965,
+            "Text": "Great, I'll meet you <b>behind the pawn shop</b> between 6:00 AM and 12:00 PM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -967832741,
+            "Text": "Hello, I'm after 3x Sour Diesel. I can pay <color=#46CB4F>$120</color> for it.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -430766154,
+            "Text": "Sure thing",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 792612751,
+            "Text": "Great, I'll meet you <b>behind the construction site</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 817667285,
+            "Text": "Hey, can I get 3x Green Crack? I'll pay <color=#46CB4F>$180</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 34161019,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 428213577,
+            "Text": "Great, I'll meet you <b>next to the statue in the west park</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 659055040,
+            "Text": "Hey, can I get 5x Sour Diesel? I'll pay <color=#46CB4F>$200</color>",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [
+        {
+            "Text": "Yep",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
+    "IsHidden": false
+}

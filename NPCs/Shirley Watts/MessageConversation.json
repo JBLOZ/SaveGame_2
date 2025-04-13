@@ -1,0 +1,53 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 3,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": 856541962,
+            "Text": "Heyo, I'm Shirley. I work in the pharmaceutical business, and heard you got a nasty cough...",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -745632008,
+            "Text": "If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -809132643,
+            "Text": "I need a dead drop:\n7x Low-Quality Pseudo",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1979081519,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 3 hours 30 min",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 565536538,
+            "Text": "Hey, that drop is ready in the alleyway behind top tattoo",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2084274158,
+            "Text": "You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1844947321,
+            "Text": "Just reminding you that you owe me <color=#46CB4F>$420</color>. Please deposit the amount into my stash box when you're ready.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

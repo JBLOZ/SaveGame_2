@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 11,
+    "Read": true,
+    "MessageHistory": [
+        {
+            "Sender": 0,
+            "MessageID": 250573385,
+            "Text": "How about 7x OG Kush for $280?",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1163962471,
+            "Text": "Ok. What time you wanna meet?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1889601984,
+            "Text": "Late Night",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 792886153,
+            "Text": "Ok, I'll meet you <b>behind Thompson construction and demolition</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1443176014,
+            "Text": "Hey, can I get 5x Green Crack? I'll pay <color=#46CB4F>$320</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1585002939,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1796073511,
+            "Text": "Ok, I'll meet you <b>behind taco ticklers</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 17480563,
+            "Text": "Hey, can I get 5x Green Crack? I'll pay <color=#46CB4F>$320</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -786692778,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1770040313,
+            "Text": "Alright cool, I'll meet you <b>behind taco ticklers</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

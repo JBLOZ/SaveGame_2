@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Fat Cum",
+    "ID": "fatcum",
+    "DrugType": 0,
+    "Properties": [
+        "energizing",
+        "balding"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 109,
+            "g": 146,
+            "b": 81,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 154,
+            "g": 168,
+            "b": 79,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 131,
+            "g": 157,
+            "b": 80,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 87,
+            "g": 116,
+            "b": 64,
+            "a": 255
+        }
+    }
+}

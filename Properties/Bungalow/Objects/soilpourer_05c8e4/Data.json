@@ -1,0 +1,15 @@
+{
+    "DataType": "SoilPourerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "05c8e4d4-76e6-4431-a1ee-2e691a66ed04",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"soilpourer\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 11.0,
+        "y": 0.0
+    },
+    "Rotation": -90,
+    "SoilID": ""
+}

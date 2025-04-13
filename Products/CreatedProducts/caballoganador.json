@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "caballo ganador",
+    "ID": "caballoganador",
+    "DrugType": 0,
+    "Properties": [
+        "refreshing",
+        "giraffying"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 216,
+            "g": 236,
+            "b": 125,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 159,
+            "g": 179,
+            "b": 103,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

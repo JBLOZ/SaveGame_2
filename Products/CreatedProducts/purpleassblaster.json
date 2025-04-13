@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Purple Assblaster",
+    "ID": "purpleassblaster",
+    "DrugType": 0,
+    "Properties": [
+        "calming",
+        "athletic"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 116,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 159,
+            "g": 171,
+            "b": 155,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 136,
+            "g": 143,
+            "b": 118,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 92,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

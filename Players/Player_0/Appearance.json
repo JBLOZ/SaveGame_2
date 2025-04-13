@@ -1,0 +1,75 @@
+{
+    "Gender": 1,
+    "Weight": 0.2774193584918976,
+    "SkinColor": {
+        "r": 0.9647058844566345,
+        "g": 0.8705882430076599,
+        "b": 0.7921568751335144,
+        "a": 1.0
+    },
+    "HairStyle": "Avatar/Hair/SidePartBob/SidePartBob",
+    "HairColor": {
+        "r": 0.12264150381088257,
+        "g": 0.07578319311141968,
+        "b": 0.044544316828250888,
+        "a": 1.0
+    },
+    "Mouth": "Avatar/Layers/Face/Face_Neutral",
+    "FacialHair": "",
+    "FacialDetails": "",
+    "FacialDetailsIntensity": 0.45483872294425967,
+    "EyeballColor": {
+        "r": 1.0,
+        "g": 0.6556603908538818,
+        "b": 0.6556603908538818,
+        "a": 1.0
+    },
+    "UpperEyeLidRestingPosition": 0.3354838788509369,
+    "LowerEyeLidRestingPosition": 0.34193548560142519,
+    "PupilDilation": 1.0,
+    "EyebrowScale": 1.0987097024917603,
+    "EyebrowThickness": 1.1967742443084717,
+    "EyebrowRestingHeight": 0.019354820251464845,
+    "EyebrowRestingAngle": 0.0,
+    "Top": "Avatar/Layers/Top/V-Neck",
+    "TopColor": {
+        "r": 0.1779547780752182,
+        "g": 0.21686768531799317,
+        "b": 0.40566039085388186,
+        "a": 1.0
+    },
+    "Bottom": "Avatar/Layers/Bottom/CargoPants",
+    "BottomColor": {
+        "r": 0.23584908246994019,
+        "g": 0.23584908246994019,
+        "b": 0.23584908246994019,
+        "a": 1.0
+    },
+    "Shoes": "Avatar/Accessories/Feet/Sneakers/Sneakers",
+    "ShoesColor": {
+        "r": 0.48235294222831728,
+        "g": 0.3294117748737335,
+        "b": 0.2235294133424759,
+        "a": 1.0
+    },
+    "Headwear": "",
+    "HeadwearColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "Eyewear": "",
+    "EyewearColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "Tattoos": [
+        "Avatar/Layers/Tattoos/RightArm/RightArm_Web",
+        "Avatar/Layers/Tattoos/Chest/Chest_DeadFace",
+        "Avatar/Layers/Tattoos/LeftArm/LeftArm_Weed",
+        "Avatar/Layers/Tattoos/Face/Face_Teardrop"
+    ]
+}

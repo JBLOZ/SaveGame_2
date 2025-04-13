@@ -1,0 +1,30 @@
+{
+    "DataType": "MetaData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "CreationDate": {
+        "DataType": "DateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "Year": 2025,
+        "Month": 4,
+        "Day": 4,
+        "Hour": 16,
+        "Minute": 0,
+        "Second": 34
+    },
+    "LastPlayedDate": {
+        "DataType": "DateTimeData",
+        "DataVersion": 0,
+        "GameVersion": "0.3.4f4",
+        "Year": 2025,
+        "Month": 4,
+        "Day": 12,
+        "Hour": 19,
+        "Minute": 43,
+        "Second": 35
+    },
+    "CreationVersion": "0.3.3f14",
+    "LastSaveVersion": "0.3.4f4",
+    "PlayTutorial": false
+}

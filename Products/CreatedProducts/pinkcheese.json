@@ -1,0 +1,39 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Pink Cheese",
+    "ID": "pinkcheese",
+    "DrugType": 0,
+    "Properties": [
+        "refreshing",
+        "balding",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 161,
+            "g": 168,
+            "b": 92,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 132,
+            "g": 145,
+            "b": 87,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

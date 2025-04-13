@@ -1,0 +1,191 @@
+{
+    "DataType": "ProductManagerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "DiscoveredProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "aspendeath",
+        "aspenslime",
+        "caballoganador",
+        "californiadurkle",
+        "deathballs",
+        "fatcum",
+        "granddaddypuke",
+        "miraclecrack",
+        "ogcheese",
+        "pinkcheese",
+        "purpleassblaster",
+        "ultrabud",
+        "weddingass"
+    ],
+    "ListedProducts": [
+        "greencrack",
+        "sourdiesel",
+        "pinkcheese",
+        "granddaddypurple",
+        "ogkush",
+        "weddingass"
+    ],
+    "ActiveMixOperation": {
+        "ProductID": "",
+        "IngredientID": ""
+    },
+    "IsMixComplete": false,
+    "MixRecipes": [
+        {
+            "Product": "horsesemen",
+            "Mixer": "sourdiesel",
+            "Output": "caballoganador"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "sourdiesel",
+            "Output": "weddingass"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "weddingass",
+            "Output": "pinkcheese"
+        },
+        {
+            "Product": "paracetamol",
+            "Mixer": "pinkcheese",
+            "Output": "californiadurkle"
+        },
+        {
+            "Product": "gasoline",
+            "Mixer": "ogkush",
+            "Output": "miraclecrack"
+        },
+        {
+            "Product": "megabean",
+            "Mixer": "ogkush",
+            "Output": "aspendeath"
+        },
+        {
+            "Product": "motoroil",
+            "Mixer": "aspendeath",
+            "Output": "deathballs"
+        },
+        {
+            "Product": "mouthwash",
+            "Mixer": "greencrack",
+            "Output": "fatcum"
+        },
+        {
+            "Product": "flumedicine",
+            "Mixer": "ogkush",
+            "Output": "ultrabud"
+        },
+        {
+            "Product": "viagra",
+            "Mixer": "ultrabud",
+            "Output": "ogcheese"
+        },
+        {
+            "Product": "energydrink",
+            "Mixer": "ogcheese",
+            "Output": "granddaddypuke"
+        },
+        {
+            "Product": "ogkush",
+            "Mixer": "chili",
+            "Output": "aspenslime"
+        },
+        {
+            "Product": "ogkush",
+            "Mixer": "energydrink",
+            "Output": "purpleassblaster"
+        }
+    ],
+    "ProductPrices": [
+        {
+            "String": "ogkush",
+            "Int": 58
+        },
+        {
+            "String": "sourdiesel",
+            "Int": 33
+        },
+        {
+            "String": "greencrack",
+            "Int": 50
+        },
+        {
+            "String": "granddaddypurple",
+            "Int": 50
+        },
+        {
+            "String": "meth",
+            "Int": 70
+        },
+        {
+            "String": "cocaine",
+            "Int": 150
+        },
+        {
+            "String": "aspendeath",
+            "Int": 64
+        },
+        {
+            "String": "aspenslime",
+            "Int": 52
+        },
+        {
+            "String": "caballoganador",
+            "Int": 58
+        },
+        {
+            "String": "californiadurkle",
+            "Int": 75
+        },
+        {
+            "String": "deathballs",
+            "Int": 64
+        },
+        {
+            "String": "fatcum",
+            "Int": 53
+        },
+        {
+            "String": "granddaddypuke",
+            "Int": 73
+        },
+        {
+            "String": "miraclecrack",
+            "Int": 38
+        },
+        {
+            "String": "ogcheese",
+            "Int": 74
+        },
+        {
+            "String": "pinkcheese",
+            "Int": 66
+        },
+        {
+            "String": "purpleassblaster",
+            "Int": 50
+        },
+        {
+            "String": "ultrabud",
+            "Int": 58
+        },
+        {
+            "String": "weddingass",
+            "Int": 70
+        }
+    ],
+    "FavouritedProducts": [
+        "ogkush",
+        "sourdiesel",
+        "greencrack",
+        "granddaddypurple",
+        "weddingass",
+        "pinkcheese",
+        "californiadurkle"
+    ]
+}

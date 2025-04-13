@@ -1,0 +1,38 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "Aspen Slime",
+    "ID": "aspenslime",
+    "DrugType": 0,
+    "Properties": [
+        "calming",
+        "spicy"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 114,
+            "g": 116,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 201,
+            "g": 142,
+            "b": 101,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 157,
+            "g": 129,
+            "b": 91,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 91,
+            "g": 92,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

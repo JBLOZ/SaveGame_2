@@ -1,0 +1,40 @@
+{
+    "DataType": "WeedProductData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Name": "California Durkle",
+    "ID": "californiadurkle",
+    "DrugType": 0,
+    "Properties": [
+        "refreshing",
+        "sneaky",
+        "balding",
+        "tropicthunder"
+    ],
+    "AppearanceSettings": {
+        "MainColor": {
+            "r": 103,
+            "g": 123,
+            "b": 82,
+            "a": 255
+        },
+        "SecondaryColor": {
+            "r": 132,
+            "g": 147,
+            "b": 103,
+            "a": 255
+        },
+        "LeafColor": {
+            "r": 117,
+            "g": 135,
+            "b": 92,
+            "a": 255
+        },
+        "StemColor": {
+            "r": 82,
+            "g": 98,
+            "b": 65,
+            "a": 255
+        }
+    }
+}

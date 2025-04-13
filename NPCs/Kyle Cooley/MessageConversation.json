@@ -1,0 +1,84 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 3,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -251450229,
+            "Text": "Yo homie, can I get 3x California Durkle? I'll pay <color=#46CB4F>$275</color>",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 882640141,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1799070700,
+            "Text": "Sweet as homie, I'll meet you <b>next to Bud's bar</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 30705043,
+            "Text": "Ay bro you got 7x Sour Diesel? I'll pay <color=#46CB4F>$280</color> for it",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": 1915862646,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1229988002,
+            "Text": "Hell yeah my friend, I'll meet you <b>behind Hyland gun range</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 505503208,
+            "Text": "Hey dog, I need 9x Sour Diesel. I'll pay <color=#46CB4F>$360</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1997836510,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1552572779,
+            "Text": "Sweet as homie, I'll meet you <b>next to Bud's bar</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 1882350522,
+            "Text": "Ayo dawg, if you got 6x Green Crack I'll pay <color=#46CB4F>$365</color> for it. Deal?",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [
+        {
+            "Text": "Deal",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
+    "IsHidden": false
+}

@@ -1,0 +1,18 @@
+{
+    "DataType": "TrashContainerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "93a299bb-6b5c-4e0a-8b09-39cd7f6d9fb5",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"trashcan\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "890b4b1a-139d-459d-86fe-78bc90f3adc6",
+    "OriginCoordinate": {
+        "x": 1.0,
+        "y": 7.0
+    },
+    "Rotation": -90,
+    "ContentData": {
+        "TrashIDs": [],
+        "TrashQuantities": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "DataType": "PlaceableStorageData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "c3fa8e93-3481-46f5-b718-263972e151bf",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"largestoragerack\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 0,
+    "GridGUID": "d47666ba-6076-4779-9c8a-ffede5ff83ad",
+    "OriginCoordinate": {
+        "x": 3.0,
+        "y": 9.0
+    },
+    "Rotation": 180,
+    "Contents": {
+        "Items": [
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"trashbag\",\"Quantity\":3}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"growtent\",\"Quantity\":4}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"halogengrowlight\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"packagingstation\",\"Quantity\":1}",
+            "{\"DataType\":\"ItemData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"donut\",\"Quantity\":1}",
+            "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"sneakers\",\"Quantity\":1,\"Color\":10}",
+            "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"tshirt\",\"Quantity\":1,\"Color\":7}",
+            "{\"DataType\":\"ClothingData\",\"DataVersion\":0,\"GameVersion\":\"0.3.4f4\",\"ID\":\"overalls\",\"Quantity\":1,\"Color\":4}"
+        ]
+    }
+}

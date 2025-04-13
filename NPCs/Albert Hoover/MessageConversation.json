@@ -1,0 +1,71 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 0,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1311662362,
+            "Text": "I've received $360 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -160691473,
+            "Text": "Hey, that drop is ready behind Randy's bait & tackle",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1853119644,
+            "Text": "I need a dead drop:\n3x Green Crack Seed\n3x OG Kush Seed\n3x Sour Diesel Seed\n1x Granddaddy Purple Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1931709617,
+            "Text": "Got it. I'll let you know when it's ready. Should be about 5 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2106783459,
+            "Text": "The drop is ready. You can find it on the east-exterior wall of Taco Ticklers",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 2071487041,
+            "Text": "Just reminding you that you owe me <color=#46CB4F>$360</color>. Please deposit the amount into my stash box when you're ready.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -311005330,
+            "Text": "I need a dead drop:\n2x OG Kush Seed\n2x Green Crack Seed",
+            "EndOfChain": false
+        },
+        {
+            "Sender": 1,
+            "MessageID": -269035083,
+            "Text": "Working on it. Should be ready in around 2 hours",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -2042999566,
+            "Text": "Hey, that drop is ready behind the western Gas-Mart",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": 475215784,
+            "Text": "I've received $500 cash from you. Your debt is now paid off.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [],
+    "IsHidden": false
+}

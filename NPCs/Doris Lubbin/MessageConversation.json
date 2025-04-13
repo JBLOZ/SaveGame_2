@@ -1,0 +1,84 @@
+{
+    "DataType": "MSGConversationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "ConversationIndex": 1,
+    "Read": false,
+    "MessageHistory": [
+        {
+            "Sender": 1,
+            "MessageID": -1711315969,
+            "Text": "Hey, I need 3x Pink Cheese. I'll pay <color=#46CB4F>$255</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -1638511751,
+            "Text": "Yep",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -429321063,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -250640566,
+            "Text": "Hey, I need 4x Green Crack. I'll pay <color=#46CB4F>$235</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -491874292,
+            "Text": "Deal",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -674862609,
+            "Text": "Great, I'll meet you <b>under the west bridge</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -296761558,
+            "Text": "Hey, I need 5x Green Crack. I'll pay <color=#46CB4F>$300</color>. Deal?",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 0,
+            "MessageID": -114548187,
+            "Text": "Yes",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1373861983,
+            "Text": "Great, I'll meet you <b>outside room #2 of the brown apartment block</b> between 12:00 AM and 6:00 AM.",
+            "EndOfChain": true
+        },
+        {
+            "Sender": 1,
+            "MessageID": -1823932349,
+            "Text": "Hello, I'm after 3x Granddaddy Purple. I can pay <color=#46CB4F>$180</color> for it.",
+            "EndOfChain": true
+        }
+    ],
+    "ActiveResponses": [
+        {
+            "Text": "Sure thing",
+            "Label": "ACCEPT_CONTRACT"
+        },
+        {
+            "Text": "[Counter-offer]",
+            "Label": "COUNTEROFFER"
+        },
+        {
+            "Text": "Not right now",
+            "Label": "REJECT_CONTRACT"
+        }
+    ],
+    "IsHidden": false
+}

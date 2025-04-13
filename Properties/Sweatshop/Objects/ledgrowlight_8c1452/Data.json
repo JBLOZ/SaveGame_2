@@ -1,0 +1,43 @@
+{
+    "DataType": "ProceduralGridItemData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "GUID": "8c145290-87b5-449b-b57d-2daaee176944",
+    "ItemString": "{\n    \"DataType\": \"ItemData\",\n    \"DataVersion\": 0,\n    \"GameVersion\": \"0.3.4f4\",\n    \"ID\": \"ledgrowlight\",\n    \"Quantity\": 1\n}",
+    "LoadOrder": 50,
+    "Rotation": 180,
+    "FootprintMatches": [
+        {
+            "TileOwnerGUID": "2a9016bc-45f9-4da6-bd73-1c3a02f8443c",
+            "TileIndex": 0,
+            "FootprintCoordinate": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "TileOwnerGUID": "2a9016bc-45f9-4da6-bd73-1c3a02f8443c",
+            "TileIndex": 3,
+            "FootprintCoordinate": {
+                "x": 0.0,
+                "y": 1.0
+            }
+        },
+        {
+            "TileOwnerGUID": "2a9016bc-45f9-4da6-bd73-1c3a02f8443c",
+            "TileIndex": 1,
+            "FootprintCoordinate": {
+                "x": 1.0,
+                "y": 0.0
+            }
+        },
+        {
+            "TileOwnerGUID": "2a9016bc-45f9-4da6-bd73-1c3a02f8443c",
+            "TileIndex": 2,
+            "FootprintCoordinate": {
+                "x": 1.0,
+                "y": 1.0
+            }
+        }
+    ]
+}

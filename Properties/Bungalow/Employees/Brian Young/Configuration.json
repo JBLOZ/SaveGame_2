@@ -1,0 +1,14 @@
+{
+    "DataType": "BotanistConfigurationData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Bed": {
+        "ObjectGUID": "9b513e7e-47a0-42cd-91ba-036c452c7645"
+    },
+    "Supplies": {
+        "ObjectGUID": ""
+    },
+    "Pots": {
+        "ObjectGUIDs": []
+    }
+}

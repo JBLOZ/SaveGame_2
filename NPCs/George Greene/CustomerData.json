@@ -1,0 +1,53 @@
+{
+    "DataType": "CustomerData",
+    "DataVersion": 0,
+    "GameVersion": "0.3.4f4",
+    "Dependence": 0.06800000369548798,
+    "PurchaseableProducts": [
+        "greencrack",
+        "sourdiesel",
+        "pinkcheese",
+        "granddaddypurple",
+        "ogkush",
+        "weddingass"
+    ],
+    "ProductAffinities": [
+        1.0,
+        0.3700000047683716,
+        -0.15000000596046449
+    ],
+    "TimeSinceLastDealCompleted": 2961,
+    "TimeSinceLastDealOffered": 4,
+    "OfferedDeals": 2,
+    "CompletedDeals": 1,
+    "IsContractOffered": true,
+    "OfferedContract": {
+        "Payment": 705.0,
+        "Products": {
+            "entries": [
+                {
+                    "ProductID": "greencrack",
+                    "Quality": 1,
+                    "Quantity": 11
+                }
+            ]
+        },
+        "DeliveryLocationGUID": "36058621-8030-42d2-a0dc-dfb820e87266",
+        "DeliveryWindow": {
+            "IsEnabled": true,
+            "WindowStartTime": 0,
+            "WindowEndTime": 0
+        },
+        "Expires": true,
+        "ExpiresAfter": 1,
+        "PickupScheduleIndex": 0,
+        "IsCounterOffer": false
+    },
+    "OfferedContractTime": {
+        "elapsedDays": 30,
+        "time": 1245
+    },
+    "TimeSincePlayerApproached": 1025068,
+    "TimeSinceInstantDealOffered": 1025068,
+    "HasBeenRecommended": false
+}
