@@ -5,6 +5,6 @@
     "OrganisationName": "beluga ii",
     "Seed": 773257444,
     "Settings": {
-        "ConsoleEnabled": false
+        "ConsoleEnabled": true
     }
 }
